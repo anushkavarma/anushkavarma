@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @anushkavarma
+- In my repositories you can learn more about some of my skills, such as SQL and Excel!
